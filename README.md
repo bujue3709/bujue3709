@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bujue3709/bujue3709/main/sonnyboy.jpg" alt="Sonny Boy" width="40%" />
+<img src="https://raw.githubusercontent.com/bujue3709/bujue3709/main/sonnyboy.jpg" alt="Sonny Boy" width="35%" />
 
 <br/>
 
@@ -24,7 +24,6 @@
 const Bootj = {
   role:       "Indie Web Engineer",
   education:  "Bachelor's Degree",
-  status:     "Drifting, but with direction 🧭",
 
   interests:  ["🤖 Artificial Intelligence", "⚡ Frontend Engineering", "🎨 UI / UX"],
   hobbies:    ["📺 Anime", "🎮 Gaming", "🎵 Music", "📖 Manga"],
@@ -35,7 +34,6 @@ const Bootj = {
     "Anything interesting ✨"
   ],
 
-  lifePhilosophy: "Like Sonny Boy — drift boldly into the unknown 🌊"
 };
 ```
 
