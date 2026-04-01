@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm YOUR_NAME</h1>
 
-<!--
-**bujue3709/bujue3709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Independent+Developer;WordPress+%2F+Frontend+Explorer;Building+cool+things+on+the+web;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Check%20them%20out-blueviolet?style=for-the-badge" />
+  </a>
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌙 About Me
+
+```yaml
+name: YOUR_NAME
+located_in: Your City / Country
+current_job: Your Role
+education: Your Background
+company: Your Company or "Freelancer"
+fields_of_interest:
+  - Web Development
+  - WordPress
+  - Frontend Engineering
+  - UI / UX
+currently_learning:
+  - PHP
+  - JavaScript
+  - Performance Optimization
+  - Anything interesting
+hobbies:
+  - Anime / Games / Music / Whatever you like
