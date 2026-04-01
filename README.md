@@ -23,18 +23,3 @@
 ```yaml
 name: YOUR_NAME
 located_in: Your City / Country
-current_job: Your Role
-education: Your Background
-company: Your Company or "Freelancer"
-fields_of_interest:
-  - Web Development
-  - WordPress
-  - Frontend Engineering
-  - UI / UX
-currently_learning:
-  - PHP
-  - JavaScript
-  - Performance Optimization
-  - Anything interesting
-hobbies:
-  - Anime / Games / Music / Whatever you like
