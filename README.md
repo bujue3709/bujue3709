@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 漂流少年 Banner -->
-<img src="[https://i.imgur.com/KYsEHyq.jpeg](https://i.scdn.co/image/ab67616d0000b27332041ca42a1106566ea918a0)" alt="漂流少年 Banner" width="100%" />
+<img src="[[https://i.imgur.com/KYsEHyq.jpeg](https://www.google.com/search?newwindow=1&sca_esv=d08deebd7d870f55&sxsrf=ANbL-n5F6W9NAOfPLKECOJgMgJRRmqWYGg:1775035776788&udm=2&fbs=ADc_l-Z6XGGbkKmpylZqg2J7ZOuVNvV7jKtLqzLZ63dd2zPtrsojpaijeJRLrp4clUvcwVJzaswP0mpbgzvJ8vQCiCDcmA0ktLCms7w08eUbW1KgoeG-hnBgcxoY0dvTNoRLw4_GsvjTjgEm7DNy3-sQ-4Y3ACiFQlHwX9d2Ty2WXnR3EJIStDH2t7jmEN5nEWgtsnUP6v8uj2-vqQZxUZb0Pa9dJT-ttQ&q=Sonny+boy&sa=X&sqi=2&ved=2ahUKEwixqsHHq8yTAxXdB7wBHViUD9UQtKgLegQIGBAB&biw=1684&bih=897&dpr=1.5#sv=CAMSVhoyKhBlLThlOG92c2JkQm9RWUNNMg44ZThvdnNiZEJvUVlDTToOX3JscEtNWTc0Sml3TU0gBCocCgZtb3NhaWMSEGUtOGU4b3ZzYmRCb1FZQ00YADABGAcgm7nKlwZKCBABGAEgASgB)](https://i.scdn.co/image/ab67616d0000b27332041ca42a1106566ea918a0)" alt="漂流少年 Banner" width="100%" />
 
 <br/>
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-> *「悲しみをこえたなら
+> *「悲しみをこえたなら，
 少年は少女に出逢う」*
 > 
 > — 《Sonny Boy》
