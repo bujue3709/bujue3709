@@ -1,14 +1,5 @@
 <div align="center">
-
-<!-- 漂流少年 Banner -->
-<img src="[[https://i.imgur.com/KYsEHyq.jpeg](https://www.google.com/search?newwindow=1&sca_esv=d08deebd7d870f55&sxsrf=ANbL-n5F6W9NAOfPLKECOJgMgJRRmqWYGg:1775035776788&udm=2&fbs=ADc_l-Z6XGGbkKmpylZqg2J7ZOuVNvV7jKtLqzLZ63dd2zPtrsojpaijeJRLrp4clUvcwVJzaswP0mpbgzvJ8vQCiCDcmA0ktLCms7w08eUbW1KgoeG-hnBgcxoY0dvTNoRLw4_GsvjTjgEm7DNy3-sQ-4Y3ACiFQlHwX9d2Ty2WXnR3EJIStDH2t7jmEN5nEWgtsnUP6v8uj2-vqQZxUZb0Pa9dJT-ttQ&q=Sonny+boy&sa=X&sqi=2&ved=2ahUKEwixqsHHq8yTAxXdB7wBHViUD9UQtKgLegQIGBAB&biw=1684&bih=897&dpr=1.5#sv=CAMSVhoyKhBlLThlOG92c2JkQm9RWUNNMg44ZThvdnNiZEJvUVlDTToOX3JscEtNWTc0Sml3TU0gBCocCgZtb3NhaWMSEGUtOGU4b3ZzYmRCb1FZQ00YADABGAcgm7nKlwZKCBABGAEgASgB)](https://i.scdn.co/image/ab67616d0000b27332041ca42a1106566ea918a0)" alt="漂流少年 Banner" width="100%" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=28&pause=1000&color=5BA4CF&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%E6%88%91%E6%98%AF+Bootj+%F0%9F%8C%8A;%E6%AD%A3%E5%9C%A8%E6%BC%82%E6%B5%81%E7%9A%84%E7%8B%AC%E7%AB%8B%E7%AB%99%E5%B7%A5%E7%A8%8B%E5%B8%88;Building+%C2%B7+Drifting+%C2%B7+Dreaming)](https://git.io/typing-svg)
-
-<br/>
-
+  
 > *「悲しみをこえたなら，
 少年は少女に出逢う」*
 > 
@@ -62,16 +53,3 @@ const Bootj = {
 </div>
 
 ---
-
-<div align="center">
-
-## 📊 GitHub 数据 · Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bujue3709j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BA4CF&icon_color=5BA4CF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bujue3709&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BA4CF&text_color=c9d1d9" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bootj&theme=tokyonight&hide_border=true&background=0D1117&ring=5BA4CF&fire=FF8C42&currStreakLabel=5BA4CF)](https://git.io/streak-stats)
-
-</div>
