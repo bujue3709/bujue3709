@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bujue3709/bujue3709/main/sonnyboy.jpg" alt="Sonny Boy" width="100%" />
+<img src="https://raw.githubusercontent.com/bujue3709/bujue3709/main/sonnyboy.jpg" alt="Sonny Boy" width="40%" />
 
 <br/>
 
@@ -60,101 +60,3 @@ const Bootj = {
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bootj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BA4CF&icon_color=5BA4CF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bootj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BA4CF&text_color=c9d1d9" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bootj&theme=tokyonight&hide_border=true&background=0D1117&ring=5BA4CF&fire=FF8C42&currStreakLabel=5BA4CF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎌 Anime Corner
-
-*When the code won't compile, Sonny Boy recharges the soul 🔋*
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🏠 Drifting Worlds**
-<br/>
-Every project is a new dimension<br/>
-lost and found along the way
-
-</td>
-<td align="center" width="33%">
-
-**🌊 Endless Ocean**
-<br/>
-The sea of code is vast<br/>
-but I never lose my course
-
-</td>
-<td align="center" width="33%">
-
-**☀️ Summer Youth**
-<br/>
-Stay curious like a kid<br/>
-explore every new tech
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<sub>🎬 <i>Sonny Boy</i> · Madhouse · 2021</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Currently Learning
-
-| Skill | Progress | Status |
-|:---:|:---:|:---:|
-| TypeScript | ████████░░ 80% | 🌊 Drifting |
-| Performance Optimization | ██████░░░░ 60% | ⚡ Pushing |
-| Anything Interesting | ∞ | ✨ Never Ends |
-
-</div>
-
----
-
-<div align="center">
-
-## 📬 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bootj-181717?style=for-the-badge&logo=github)](https://github.com/Bootj)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Bootj&color=5BA4CF&style=for-the-badge&label=Visitors" />
-
-<br/><br/>
-
----
-
-<sub>🌊 <i>"Drifting is not being lost — it's the search itself."</i> · Made with ❤️ & lots of coffee ☕</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,25&height=100&section=footer" width="100%"/>
-
-</div>
